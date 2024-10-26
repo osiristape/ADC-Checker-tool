@@ -1,3 +1,11 @@
+<p align="center">
+    <a href="https://github.com/osiristape/ADC-Checker-tool/blob/main/README.md">English</a>  |   
+    <a href="https://github.com/osiristape/ADC-Checker-tool/blob/main/manual_de_lectura.md">Español</a>  |  
+    <a href="https://github.com/osiristape/ADC-Checker-tool/blob/main/自述文.md">Mandarin</a>
+</p>
+
+---
+
 # ADC Checker Tool
 
 This ADC Checker tool monitors Application Delivery Controller (ADC) endpoints, ensuring they are reachable, performing latency checks, validating SSL/TLS certificates, and checking the health of load-balanced services. It alerts the user via email if any issues are detected.
@@ -116,7 +124,6 @@ SMTP_PASSWORD = "password"
    0 * * * * /usr/bin/python3/path/to/ADC-Checker-tool/adc_checker.py
 ```
 ---
-
 
 
 ## Logging
