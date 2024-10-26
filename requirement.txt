@@ -1,4 +1,0 @@
-requests
-smtplib
-ssl
-logging
