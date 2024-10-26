@@ -1,0 +1,4 @@
+requests
+smtplib
+ssl
+logging
