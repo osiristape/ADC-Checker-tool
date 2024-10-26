@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://github.com/osiristape/ADC-Checker-tool/blob/main/README.md">English</a>  |   
+    <a href="https://github.com/osiristape/ADC-Checker-tool/blob/main/manual_de_lectura.md">Español</a>  |  
+    <a href="https://github.com/osiristape/ADC-Checker-tool/blob/main/自述文.md">Mandarin</a>
+</p>
+
 # Herramienta de Verificación ADC
 
 Esta herramienta de Verificación ADC monitorea los endpoints del Controlador de Entrega de Aplicaciones (ADC), asegurando que sean accesibles, realizando verificaciones de latencia, validando certificados SSL/TLS y comprobando el estado de los servicios balanceados. Alerta al usuario por correo electrónico si se detectan problemas.
