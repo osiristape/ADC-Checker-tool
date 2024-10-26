@@ -4,7 +4,6 @@
     <a href="https://github.com/osiristape/ADC-Checker-tool/blob/main/自述文.md">Mandarin</a>
 </p>
 
----
 
 # ADC Checker Tool
 
